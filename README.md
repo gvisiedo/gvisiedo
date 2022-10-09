@@ -1,7 +1,11 @@
 const Gregorio = {
+
   “alias” : “Visigoyo”  
+  
   “code” : “Javascript, HTML, CSS”
+  
   “tools” : “React, Node,Sql”
+  
  }
  
 <!---
