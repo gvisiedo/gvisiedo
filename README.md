@@ -4,7 +4,7 @@ const Gregorio = {
   
   “code” : “Javascript, HTML, CSS”
   
-  “tools” : “React, Node,Sql”
+  “tools” : “React, Node, Sql”
   
  }
  
