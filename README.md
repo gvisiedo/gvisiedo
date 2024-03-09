@@ -35,9 +35,9 @@ la lista irá creciendo
 
 ### Proyectos personales en creación
 
-[Web Personal]
-[I'm Exploring - en Español] https://imexploring.es/
-[I'm Exploring - in English] https://imexploring.com/
+[Web Personal]()
+[I'm Exploring - en Español](https://imexploring.es/)
+[I'm Exploring - in English](https://imexploring.com/)
  
 <!---
 gvisiedo/gvisiedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
