@@ -1,4 +1,4 @@
-# Hola a tod@s, me llamo Gregorio
+# Hola a tod@s, me llamo Gregorio 🤙
 ## Freelance Frontend Developer
 
 ### Soy Desarrollador web en busca de una puerta abierta para poder entrar en el mundo de la tecnología.
@@ -9,7 +9,7 @@ En 2019 decido emprender un camino que para muchos parece una locura, decido cam
 
 Todavía no tengo claro si mi camino se dirije hacia la ciberseguridad o la industria 4.0, robótica en concreto, pero si tengo claro que el camino va a ser difícil, pero ganas no me faltan, de cada proyecto nuevo se aprende. 
 
-seguimos adelante 
+seguimos adelante 🦾
 
 ### **Tecnologias**
 
@@ -27,8 +27,8 @@ seguimos adelante
 
 ### **Aprendiendo**
 
-* Ingenieria Informática
-* Python
+* Ingenieria Informática 🖥
+* Python 
 * AWS
 
 -> la lista irá creciendo 
