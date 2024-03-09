@@ -30,7 +30,7 @@ seguimos adelante 🦾
 * Ingenieria Informática 🖥
 * Python 
 * AWS
-* [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)]()
 
 -> la lista irá creciendo 
 
