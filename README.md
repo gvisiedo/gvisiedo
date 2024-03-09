@@ -23,7 +23,7 @@ seguimos adelante
 * React
 * Angular
 
-la lista irá creciendo 
+-> la lista irá creciendo 
 
 ### **Aprendiendo**
 
@@ -31,12 +31,12 @@ la lista irá creciendo
 * Python
 * AWS
 
-la lista irá creciendo 
+-> la lista irá creciendo 
 
 ### Proyectos personales en creación
 
-[Web Personal]()
-[I'm Exploring - en Español](https://imexploring.es/)
+[Web Personal]()<\br>
+[I'm Exploring - en Español](https://imexploring.es/)<\br>
 [I'm Exploring - in English](https://imexploring.com/)
  
 <!---
