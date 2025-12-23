@@ -1,43 +1,47 @@
-# Hola a tod@s, me llamo Gregorio 🤙
-## Freelance Frontend Developer
+# ¡Hola! Soy Gregorio - VisiGoyo 👋
 
-### Soy Desarrollador web en busca de una puerta abierta para poder entrar en el mundo de la tecnología.
+### 🚀 Front End Developer | Freelancer & Tech Enthusiast
 
-Marca pesonal : VisiGoyo
+Soy un apasionado del desarrollo web enfocado en crear experiencias digitales excepcionales, intuitivas y de alto rendimiento. Como **freelancer**, ayudo a convertir ideas en productos reales utilizando las últimas tecnologías del ecosistema Front End.
 
-En 2019 decido emprender un camino que para muchos parece una locura, decido cambiar mi vida, buscando un sector laboral que me apasiona y alimenta mis ganas de aprender cosas nuevas, asi que, solo di el primer paso de muchos.
+---
 
-Todavía no tengo claro si mi camino se dirije hacia la ciberseguridad o la industria 4.0, robótica en concreto, pero si tengo claro que el camino va a ser difícil, pero ganas no me faltan, de cada proyecto nuevo se aprende. 
+### 🛠️ Mi Stack Tecnológico
 
-seguimos adelante 🦾
 
-### **Tecnologias**
 
-* HTML
-* CSS
-* Javascript
-* PHP - Laravel
-* Java
-* Node.js
-* MySql
-* React
-* Angular
+* **Lenguajes:** HTML5, CSS3, JavaScript (ES6+), TypeScript.
+* **Frameworks/Librerías:** React.js.
+* **Estilizado:** Tailwind CSS, Sass, Styled Components.
+* **Herramientas:** Git, GitHub, Figma (Diseño).
 
--> la lista irá creciendo 
+---
 
-### **Aprendiendo**
+### 📈 Mi Enfoque
+* **Emprendimiento:** Siempre estoy buscando nuevos proyectos desafiantes donde pueda aportar valor desde la primera línea de código.
+* **Aprendizaje Continuo:** El mundo del Front End no se detiene, y yo tampoco. Actualmente profundizando en Ingenieria Informatica y Desarrollo Web.
+* **Calidad:** Código limpio, responsive design y accesibilidad (a11y) son mis pilares.
 
-* Ingenieria Informática 🖥
-* Python 
-* AWS
+---
 
--> la lista irá creciendo 
+### 💼 Proyectos Destacados
 
-### Proyectos personales en creación
 
-[Web Personal]() - 
- [I'm Exploring - en Español](https://imexploring.es/) -
- [I'm Exploring - in English](https://imexploring.com/)
+---
+
+### 📫 ¡Hablemos!
+¿Tienes una idea en mente o buscas colaborar en un proyecto innovador? ¡Me encantaría charlar contigo!
+
+* 🌍 **Portfolio:** [Web Personal]()
+* 💼 **LinkedIn:** []
+* 📧 **Email:** [dev.visigoyo.propose722@passmail.net]
+
+---
+
+> "El diseño no es solo lo que se ve y se siente. El diseño es cómo funciona." – Steve Jobs
+
+[Web Personal]() 
+
  
 <!---
 gvisiedo/gvisiedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
