@@ -38,19 +38,17 @@
 
 ## 🚀 Featured projects
 
-> _Replace these with your own projects_
+### 🌤️ [Climate App](https://github.com/gvisiedo/climate-app)
+A weather application built with React and Vite, leveraging HMR for fast development and ESLint for code quality. Minimal, performant setup optimised for production builds.
 
-### 📌 [Project name](https://github.com/gvisiedo/your-repo)
-Brief description of what this project does and the problem it solves. What tech did you use and what was the outcome?
-
-`React` `Node.js` `OpenAI API`
+`React` `Vite` `JavaScript` `ESLint`
 
 ---
 
-### 📌 [Project name](https://github.com/gvisiedo/your-repo)
-Brief description of what this project does and the problem it solves. What tech did you use and what was the outcome?
+### 🔗 [ShareLink](https://github.com/gvisiedo/ShareLink)
+A link-sharing platform where users can discover and share URLs with the community — because one click can connect thousands of people with what they're looking for. Full-stack app with separate frontend and backend architecture.
 
-`PHP` `MySQL` `Tailwind CSS`
+`JavaScript` `Node.js` `REST API` `Frontend` `Backend`
 
 ---
 
